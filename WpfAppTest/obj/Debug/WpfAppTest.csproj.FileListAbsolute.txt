@@ -1,0 +1,16 @@
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\bin\Debug\WpfAppTest.exe.config
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\bin\Debug\WpfAppTest.exe
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\bin\Debug\WpfAppTest.pdb
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.csproj.AssemblyReference.cache
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.csproj.SuggestedBindingRedirects.cache
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\MainWindow.g.cs
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\App.g.cs
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest_MarkupCompile.cache
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest_MarkupCompile.lref
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\MainWindow.baml
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.g.resources
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.Properties.Resources.resources
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.csproj.GenerateResource.cache
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.csproj.CoreCompileInputs.cache
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.exe
+D:\MyVISUALSTUDIO\WpfAppTest\WpfAppTest\obj\Debug\WpfAppTest.pdb
